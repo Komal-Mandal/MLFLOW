@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/892858416820304866/29c6af325adb41bda2413f8cf2bcd3d1/artifacts
+end_time: 1757441315900
+entry_point_name: ''
+experiment_id: '892858416820304866'
+lifecycle_stage: active
+run_id: 29c6af325adb41bda2413f8cf2bcd3d1
+run_name: unleashed-worm-392
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757441315640
+status: 3
+tags: []
+user_id: Komal

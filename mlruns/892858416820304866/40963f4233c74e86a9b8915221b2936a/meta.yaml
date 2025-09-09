@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/892858416820304866/40963f4233c74e86a9b8915221b2936a/artifacts
+end_time: 1757441425267
+entry_point_name: ''
+experiment_id: '892858416820304866'
+lifecycle_stage: active
+run_id: 40963f4233c74e86a9b8915221b2936a
+run_name: legendary-moose-669
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757441425090
+status: 3
+tags: []
+user_id: Komal
