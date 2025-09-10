@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/160819846876157872/ba91ce7a65a5406bb6989841dabbd625/artifacts
+end_time: 1757525885551
+entry_point_name: ''
+experiment_id: '160819846876157872'
+lifecycle_stage: active
+run_id: ba91ce7a65a5406bb6989841dabbd625
+run_name: clumsy-conch-311
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757525883375
+status: 3
+tags: []
+user_id: Komal

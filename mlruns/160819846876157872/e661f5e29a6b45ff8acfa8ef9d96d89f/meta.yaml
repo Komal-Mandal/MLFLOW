@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/160819846876157872/e661f5e29a6b45ff8acfa8ef9d96d89f/artifacts
+end_time: 1757526718327
+entry_point_name: ''
+experiment_id: '160819846876157872'
+lifecycle_stage: active
+run_id: e661f5e29a6b45ff8acfa8ef9d96d89f
+run_name: skittish-mouse-818
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757526713676
+status: 3
+tags: []
+user_id: Komal

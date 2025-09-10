@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/160819846876157872/4b50d5fbfef04ed5abd576bf10df3067/artifacts
+end_time: 1757526631744
+entry_point_name: ''
+experiment_id: '160819846876157872'
+lifecycle_stage: active
+run_id: 4b50d5fbfef04ed5abd576bf10df3067
+run_name: powerful-skunk-8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757526602288
+status: 3
+tags: []
+user_id: Komal

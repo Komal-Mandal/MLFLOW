@@ -23,9 +23,9 @@ max_depth = 10
 n_estimators = 5
 
 # Mention your experiment below
-mlflow.set_experiment('YT-MLOPS-Exp1')
+mlflow.set_experiment('mlops')
 
-with mlflow.start_run():
+with mlflow.start_run(): # we can also add experment_id
     rf = RandomForestClassifier(max_depth=max_depth, n_estimators=n_estimators, random_state=42)
     rf.fit(X_train, y_train)
 
@@ -36,3 +36,11 @@ with mlflow.start_run():
     mlflow.log_param('max_depth', max_depth)
     mlflow.log_param('n_estimators', n_estimators)
 
+
+ # tags
+mlflow.set_tags({"Author": 'komal', "Project": "Wine Classification"})
+
+    # Log the model
+mlflow.sklearn.log_model(rf, "Random-Forest-Model")
+
+print(accuracy)

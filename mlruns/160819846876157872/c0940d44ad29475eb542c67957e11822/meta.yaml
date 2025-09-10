@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/160819846876157872/c0940d44ad29475eb542c67957e11822/artifacts
+end_time: 1757526602239
+entry_point_name: ''
+experiment_id: '160819846876157872'
+lifecycle_stage: active
+run_id: c0940d44ad29475eb542c67957e11822
+run_name: invincible-lynx-264
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757526602033
+status: 3
+tags: []
+user_id: Komal

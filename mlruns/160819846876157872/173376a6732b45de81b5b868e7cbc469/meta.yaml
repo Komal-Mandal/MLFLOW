@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/160819846876157872/173376a6732b45de81b5b868e7cbc469/artifacts
+end_time: 1757526713641
+entry_point_name: ''
+experiment_id: '160819846876157872'
+lifecycle_stage: active
+run_id: 173376a6732b45de81b5b868e7cbc469
+run_name: wistful-fox-360
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757526713481
+status: 3
+tags: []
+user_id: Komal
